@@ -1,9 +1,10 @@
 {
 	"RemoteHosts": ["https://g871cec.cdn.uunode.com", "https://cdnspeed.sing-dns9.top", "https://cdn.ali-1792479413.cos.rate.node-cdn.cc", "https://gotocdn.tencentagi.com"],
-	"RemoteType": 0,
 	"HomePage": "https://www.sing-link.com",
+	"SubFlag": "meta",
 	"SupportApi": "",
 	"TelegramGroup": "https://t.me/SingLink1688",
 	"BuiltInProxy": "",
+	"CloudUpdateHours": 1,
 	"ToS": "https://sg.singlinkvpn.com/blog/terms"
 }
